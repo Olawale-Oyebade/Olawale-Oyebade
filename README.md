@@ -72,7 +72,7 @@ I bring a wealth of experience in both **manual and automated testing**, with pr
 
 ### **Education**  
 - **Micro-Degree in Cloud and Cybersecurity** – Kajaani University of Applied Sciences, September 2024  
-- **Degree in ICT (Software Automation)** – Metropolia University of Applied Sciences, May 2024  
+- **Course - Software Automation using Robotframework** – Metropolia University of Applied Sciences, May 2024  
 - **Degree in International Business (HR Management)** – Haaga-Helia University of Applied Sciences, June 2019  
 
 ### **Certifications**  
